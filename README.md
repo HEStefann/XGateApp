@@ -9,8 +9,7 @@ Laravel 12
 
 MySQL
 
-Postman (for API testing, optional)
-
+**
 Installation Steps:
     git clone https://github.com/your-username/XGateApp.git
     cd XGateApp
@@ -29,4 +28,5 @@ Run Migrations and Seed Database
     php artisan migrate --seed
 
 Start the Server
-php artisan serve
+    php artisan serve
+**
